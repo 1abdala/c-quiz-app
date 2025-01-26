@@ -1,0 +1,165 @@
+1|A computer understands only binary language.|1
+1|CPU stands for Central Process Unit.|0
+1|RAM is volatile memory.|1
+1|Computers cannot perform mathematical calculations.|0
+1|Software is the physical part of the computer.|0
+1|The Internet was invented before computers.|0
+1|Programming languages include Python and C++.|1
+1|Hardware includes CPU and RAM.|1
+1|An operating system manages hardware and software.|1
+1|Cloud computing allows data storage online.|1
+1|Computers have no role in education.|0
+1|A byte is made up of 8 bits.|1
+1|Binary uses base 10 numbering.|0
+1|ROM is read-only memory.|1
+1|Alan Turing is considered the father of computer science.|1
+2|Problem-solving involves analyzing and resolving challenges.|1
+2|Algorithms are step-by-step solutions to problems.|1
+2|Flowcharts use symbols to represent algorithms.|1
+2|Heuristics are strict rules for solving problems.|0
+2|Debugging is the process of introducing bugs.|0
+2|A problem-solving plan is unnecessary in programming.|0
+2|Pseudocode is a programming language.|0
+2|Trial and error is not a problem-solving technique.|0
+2|Decomposition breaks down problems into smaller parts.|1
+2|Problem-solving is only important in programming.|0
+2|Algorithms must have a finite number of steps.|1
+2|A decision tree helps visualize problem outcomes.|1
+2|Iterative algorithms repeat steps until a condition is met.|1
+2|Problem-solving requires critical thinking skills.|1
+2|Every problem has one unique solution.|0
+3|C++ supports both procedural and object-oriented programming.|1
+3|The 'cout' keyword is used for output.|1
+3|C++ is case-sensitive.|1
+3|Every C++ program must have a 'main()' function.|1
+3|Variable names can start with a number.|0
+3|'#include' is used for comments.|0
+3|Semicolons are used to terminate statements in C++.|1
+3|C++ supports multiple inheritance.|1
+3|The 'int' keyword declares an integer variable.|1
+3|Functions can return multiple values.|0
+3|C++ does not support pointers.|0
+3|The 'cin' keyword is used for input.|1
+3|A class is a blueprint for objects.|1
+3|Comments in C++ start with '//' or '/*'.|1
+3|A pointer stores the memory address of a variable.|1
+4|The 'if' statement is used for decision-making in C++.|1
+4|The 'else' keyword must always follow an 'if' statement.|0
+4|Switch statements can handle multiple cases.|1
+4|The 'break' keyword is optional in a switch case.|0
+4|Conditional operators are also known as ternary operators.|1
+4|The default case in a switch statement is mandatory.|0
+4|An 'if-else' ladder can have multiple 'if' conditions.|1
+4|Logical operators like && and || are used in conditions.|1
+4|The '?' operator is used in switch statements.|0
+4|'else if' is a valid syntax in C++.|1
+4|You cannot nest 'if' statements.|0
+4|Switch statements can handle string comparisons.|0
+4|Curly braces are required for multi-line 'if' blocks.|1
+4|The 'else' block can exist without an 'if' block.|0
+4|Conditions in 'if' statements must evaluate to true or false.|1
+5|The 'for' loop is used when the number of iterations is known.|1
+5|The 'while' loop will always execute at least once.|0
+5|The 'do-while' loop guarantees one iteration.|1
+5|Infinite loops can crash a program.|1
+5|A 'break' statement exits a loop prematurely.|1
+5|The 'continue' keyword skips the current iteration.|1
+5|Nested loops are not allowed in C++.|0
+5|A 'for' loop can have multiple initialization statements.|1
+5|The 'while' loop does not require a condition.|0
+5|A loop variable can be declared inside the 'for' loop.|1
+5|The scope of a loop variable extends outside the loop.|0
+5|The 'do-while' loop checks the condition after executing the block.|1
+5|Logical errors in loops can create infinite loops.|1
+5|'for(;;)' creates an infinite loop.|1
+5|'goto' can be used to exit a loop.|1
+6|A function is a block of reusable code.|1
+6|Every C++ program must have at least one function.|1
+6|The 'void' keyword specifies that a function returns nothing.|1
+6|Functions cannot have default arguments.|0
+6|Function overloading allows multiple functions with the same name.|1
+6|A function prototype is optional in C++.|0
+6|Recursive functions call themselves.|1
+6|Inline functions are declared using the 'inline' keyword.|1
+6|Static variables retain their value between function calls.|1
+6|A function cannot return a pointer.|0
+6|The 'return' statement exits a function.|1
+6|Functions cannot return objects.|0
+6|The main function returns an integer by default.|1
+6|Global variables can be accessed from any function.|1
+6|Functions cannot have arrays as parameters.|0
+7|Arrays store multiple values of the same type.|1
+7|Array indexing in C++ starts from 1.|0
+7|Arrays have a fixed size in C++.|1
+7|You can resize an array dynamically in C++.|0
+7|The 'sizeof' operator can determine array size.|1
+7|Multidimensional arrays are supported in C++.|1
+7|Array elements are stored in contiguous memory locations.|1
+7|An array can store different data types.|0
+7|The last index of an array is 'size-1'.|1
+7|Array names act as pointers to the first element.|1
+7|You cannot use loops to process arrays.|0
+7|An array can have zero elements.|0
+7|Passing an array to a function passes its pointer.|1
+7|2D arrays are also called matrices.|1
+7|Array bounds are automatically checked in C++.|0
+8|Strings in C++ are arrays of characters.|1
+8|The 'string' library must be included for string operations.|1
+8|The getline function reads an entire line of text.|1
+8|Files are used for permanent data storage.|1
+8|ifstream is used to write data to a file.|0
+8|ofstream is used to read data from a file.|0
+8|The 'fopen' function is used in C, not C++.|1
+8|File operations require file streams in C++.|1
+8|You can append data to a file using 'ios::app'.|1
+8|String indexing starts at 1.|0
+8|The '+' operator concatenates strings.|1
+8|C++ strings are null-terminated.|0
+8|You can compare strings using '=='.|1
+8|Files must always be closed after use.|1
+8|The 'eof()' function detects the end of a file.|1
+9|Structured data is organized in a defined format.|1
+9|Structs in C++ can hold multiple data types.|1
+9|You cannot nest one struct inside another.|0
+9|Struct members are accessed using the dot operator (.).|1
+9|A struct cannot have functions as members.|0
+9|Arrays can be used as members of a struct.|1
+9|A struct can have a constructor in C++.|1
+9|Memory allocation for structs happens sequentially.|1
+9|Structs and classes in C++ are fundamentally different.|0
+9|The 'typedef' keyword can simplify struct declarations.|1
+9|Structs cannot be passed as function arguments.|0
+9|You can create pointers to structs.|1
+9|Structs are a form of user-defined data types.|1
+9|You cannot initialize struct members directly during declaration.|0
+9|Enums are also considered structured data types.|1
+10|Pointers store the memory address of variables.|1
+10|The '*' operator is used to declare a pointer.|1
+10|The '&' operator retrieves the address of a variable.|1
+10|Null pointers point to a valid memory location.|0
+10|Pointer arithmetic allows traversal of memory addresses.|1
+10|You cannot increment a pointer.|0
+10|A pointer can point to another pointer.|1
+10|Pointers can be used with arrays.|1
+10|The 'new' keyword dynamically allocates memory.|1
+10|The 'delete' keyword releases dynamically allocated memory.|1
+10|Dangling pointers can cause runtime errors.|1
+10|Pointers cannot point to functions.|0
+10|Void pointers can point to any data type.|1
+10|Pointers and references are the same.|0
+10|Smart pointers help prevent memory leaks.|1  
+11|Templates allow writing generic code in C++.|1
+11|C++ supports both class and function templates.|1
+11|The 'typename' keyword is used for defining type parameters in templates.|1
+11|Template specialization allows customization for specific data types.|1
+11|Templates are only evaluated when they are instantiated.|1
+11|C++ has built-in support for multithreading.|0
+11|The 'mutex' keyword is used to create threads in C++.|0
+11|C++ supports both static and dynamic polymorphism.|1
+11|Lambda functions are anonymous functions that can be passed as arguments.|1
+11|C++11 introduced the 'auto' keyword for type inference.|1
+11|The 'decltype' keyword helps deduce the type of an expression.|1
+11|C++ supports RAII (Resource Acquisition Is Initialization) for managing resources.|1
+11|The 'move' semantics help in optimizing resource transfer without copying.|1
+11|C++ supports operator overloading for user-defined types.|1
+11|C++ does not support multiple inheritance of classes directly.|0
